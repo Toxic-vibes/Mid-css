@@ -1,0 +1,21 @@
+*{
+    background-color: rgba(118, 36, 27, 0.986);
+}
+
+.poster{
+    margin-top: 84px;
+    width: 50%;
+    margin-left: 25%;
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+img{
+    border: solid white 5px;
+    width: 100%;
+}
